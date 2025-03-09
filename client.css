@@ -1,5 +1,5 @@
 .container {
-     background: linear-gradient(var(--black-overlay)), url(img/clientbg.png);
+     background: url(img/clientbg.png);
      background-attachment: fixed;
      background-color: black;
      background-size: center;
